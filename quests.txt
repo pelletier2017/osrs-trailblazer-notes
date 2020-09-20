@@ -1,0 +1,97 @@
+
+easy:
+- gertrudes cat
+  - requires: 100 coins, bucket of milk, raw sardine
+  - sardine from net fishing
+  - reward: cat (cant use for death runes until ardougne), cooking xp, 1 quest point
+- shield of arav
+  - requires partner, black arm gang kills lvl 23, phoenix gang kills lvl 2
+  - rewards: 1 QP, 600 coins and kudos
+- restless ghost
+  - (you can run from lvl 13 skeleton)
+  - 1 QP, 1.1k prayer XP, ghost speak amulet
+  - required for a lot of quests (mostly moritania)
+- rune mysteries
+  - rewards: 1 QP, mine rune ess, air talisman, 5 kudos
+- mistalyn mystery
+  - reward 1 QP, ruby, emerald, sapphire, 600 crafting xp
+- natural history quiz
+  - reward 1k hunter and 1k slayer xp
+- daddys home
+  - requires: 10 planks, 5 bolt of cloth, 14 nails (or more cuz they bend), hammer, saw
+  - reward 400 construction xp, player owned house, 25 planks, 50 nails, 5 steel bars, 10 oak planks, 8 bolts of cloth, 5 house teleports, 1 falador teleport
+  - could resell bolts of cloth unless theres a task to construct something in the house that needs cloth
+
+med:
+- vampire slayer
+  - garlic, fight lvl 34 vampire
+  - you can safe spot in the back left corner which is diagonal from the skeleton ~13 fire strikes
+  - rewards: 3 QP, 4.8k attack xp
+- recipe for disaster (start)
+  - requires: 10 cooking, eye of newt, greenmans ale, rotten tomato, ashes, fruit blast
+- demon slayer
+  - bucket of water, 25 bones, 1 gold coin, fight lvl 27
+  - reward 3 QP, silverlight sword, 5 kudos
+- priest in peril
+  - 50 un-noted ess, bucket, fight lvl 30 dog
+  - reward: 1 QP, 1400 prayer xp, wolfbane dagger
+- what lies below
+  - 35 runecraft, 42 mining, bowl, bronze pickaxe, 15 chaos runes, chaos talisman, 5 lvl 32 and 1 lvl 47 enemy
+  - 1 QP, 8k runecraft xp, 2k defense xp
+- the lost city (probably auto-completed)
+  - 31 crafting, 36 wc, 39 magic recommended, ability to kill 101 tree spirit with limited armor and weapons
+  - rewards: 3 QP, access to zanaris, able to make cosmics, able to start fairy tale part 1
+- death to the dorgeshuun
+  - requires 23 agility, 23 thieving and lit candle from varrock upstairs
+  - rewards 2k theiving, 2k range xp and access to ham store rooms
+- a porcine of interest
+  - requires combat to kill lvl 37 boar thing
+  - reward is 1k slayer xp and 5k coins
+
+maybe worth??
+- tears of guthix
+  - requires items: lit sapphire lantern (cut sapphire + bullseye lantern), chisel, tinderbox, pickaxe, rope
+  - 43 quest points
+  - 49 firemaking
+  - 36 theiving
+  - 20 crafting
+  - 20 mining
+  - reward 1k crafting xp and tears of guthix minigame
+
+not-worth:
+- romeo and juliet
+  - 5 QP
+- ernest the chicken
+  - killerwatts are a terrible slayer task, rather just block. Only good for quest points
+  - able to defend lvl 22 skeleton
+  - rewards: 4 QP, 300 coins, access to killerwatts (BAD)
+- sheep shearer
+  - wool will be super crowded and rewards kinda suck
+  - shears spawn on the table inside or bought from general store 1gp
+  - 20 balls of wool (very difficult if its crowded)
+  - 1 QP, 150 crafting xp, 60 coins
+- cooks assistant
+  - only worth if I need to cook at the cook-o-matic, also required for recipe for disaster for the good bank
+  - bucket of milk, egg, pot of flour
+  - rewards: 1 QP, 300 cooking xp, cook-o-matic which has low chance of burning food
+
+cant do:
+- dragon slayer
+  - requires asgarnia (falador area) and karamja
+  - can safe spot elvarg
+  - requires 32 QP, lvl 83 dragon, bunch of random items
+  - rewards 2 QP, 18k str and def, ability to use green dhide, rune plate, dragon plate
+- garden of tranquility
+  - requires creature of frankenstrain which requires moritanya
+- family crest
+  - requires al karid and falador
+- animal magnetism (auto-completed for DS2)
+  - requires moritanya and burthrope
+  - requires: 18 slayer (unboost), 19 craft, 30 range (unboost), 35 wc (unboost), mithril axe
+  - rewards: avas device, 1k crafting, fletching, slayer xp and 2.5k wc xp
+- x marks the spot
+  - requires port sarim
+  - rewards: 200 coins, 1 QP
+- start recipe for disaster (the start is probably auto-completed with monkey madness 2)
+  - requires: eye of newt, greenmans ale, rotten tomato, fruit blast, ashes
+- tourist trap (auto-completed as part of desert treasure)
