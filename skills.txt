@@ -10,6 +10,8 @@ money making:
 - skeletal wyverns (south falador)
 - rev caves (wilderness)
 
+// TODO add info for everything thats missing a 1+ cuz i don't know what to do at the beginning
+
 ATTACK/STRENGTH/DEFENSE/HP
 50+ NMZ afk
 
@@ -17,10 +19,20 @@ HERBLORE/PRAYER
 - banked from slayer, try to delay using it as much as possible to get xp bonus
 
 RANGE
-- bone crossbow
-- rune crossbow and broad bolts (from archeologist on fossil island eventually)
+28+ bone crossbow (need lost tribe quest, might be auto-completed)
+30+ big chompy bird hunting 735xp
+40+ temple of ikov (lvl 40 -> 48)
+    - also requires 42 thieving
+    - requires yew bow (short, long, or comp)
+        - young impling in puro-puro
+        - could do 65 fletch or clue scroll
+        - could unlock prif and get the bow there
+61+ rune crossbow and broad bolts (from archeologist on fossil island eventually)
 
 MAGIC
+- spellbooks
+    - possible that lunars might be auto-completed and lvl 99 magic cape could let you switch to lunar spellbook
+
 25 varrock tele
 27+ enchant emerald
 31+ lum tele
@@ -32,46 +44,111 @@ MAGIC
 55+ high alch
 60+ bones to peaches
 
+
 RUNECRAFTING
+- pouches
+    - small pouch is non-degradable and found in abyss fairy ring without wilderness area
+    - can get larger pouches but they will degrade unless choosing wilderness
+    - possible that auto-completed quests would complete enter the abyss miniquest which allows NPC contact if choosing fremenick
 - essense
     - mine some rune ess to get started
     - need pure ess for ZMI altar
     - daeyalt essense at 60+ mining to get daeyalt essence for more runecrafting xp
 15+ fire runes
+23+ lava runes
+   - fire tiara
+   - pure ess
+   - earth runes
+   - binding necklaces
 30+ ZMI altar (or start whenever having pure ess)
-- natures/laws show up around lvl 30 RC
+    - do ardougne medium diary before this to get 2x runes
+        - diary requirements:
+            - 39 agility
+            - 38 str
+            - 21 range
+            - 31 farming
+            - 51 magic
+            - 50 firemaking
+            - 49 crafting
+            - 38 theiving
+        - diary quests
+            - fairy tale part 2 (probably auto-completed)
+            - enlightened journey (autocompleted with MM2)
+    - get overhead prayers and hp regen before doing this, higher defense is good too without high regen relics
+    - without lunar teleport from fremenick area, must run back/forth
+    - natures/laws show up around lvl 30 RC
+99+ able to runecraft without repairing pouches
 
 CONSTRUCTION
+- boosts
+    - +5 spicy stew
+    - +3 crystal saw (ontop of other boosts)
+    - +3 tea at lvl 67 construction
+
+daddy's home quest for lvl 1 -> 13 with (400 * 5 = 2000xp)
+use the reward crate (1325 * 5 = 6625xp)
+- 25 planks (29 each) = 725xp (gets to lvl 22 after normal planks)
+- 10 oak planks (60 each) = 600xp (gets to lvl 25 after oak planks)
+4+ wooden bookcase
+19+ oak chair (2 oak planks)
+kitchen 5k gp, dining room 5k gp
+22+ oak dining table (4 oak planks)
+25+ workshop + crafting table 2
+33+ oak larder (8 oak planks)
+47+ mythical cape (1 cape, 3 teak planks)
 
 AGILITY
+1+ draynor village
+20+ al karid rooftop
 30+ agility pyramid for cash
 52+ agility sepulchre
 
-
 passive xp from slayer
 
-THIEVING
+THIEVING (THEIVING LUL)
+1+ pickpocket men
+5+ tea stall
+42+ temple of ikov quest for crazy range xp
 (probably not unlocking rogues set)
 
 CRAFTING
+mysthalin mystery for lvl 1 -> 16 (600 * 5 = 3000 xp)
+glass blowing pipe from house after 35 construction OR fishing contest OR charter ship in ardougne
+do some quests for more xp
+then do lots of molten glass blowing
 
-FLETCHING
+WOODCUTTING/FLETCHING/FIREMAKING
+get axes from nature spirits in enchanted waterfall area
+chop oaks, fletch and sell to shop, burn logs
 
 SLAYER
+get a cannon
 
 HUNTER
+museum quiz (1k * 5 = 5k xp) lvl 1 -> 20
+1+ birdhouses
+58+ puro puro implings
+- you get 7 free impling jars MAKE SURE YOU MAKE A generator with that
+- if you can buy impling jars, you can start earlier
 
 MINING
+1+ ? // TODO
+15+ iron ore
+22+ volcanic ash
+30+ coal ore
+35+ sandstone rocks
 
 SMITHING
+1+ bronze/iron nails
+30+ steel bars for cannonballs
 
 FISHING
+// TODO
 
 COOKING
+// TODO
 
-FIREMAKING
 
-WOODCUTTING
 
 easy:
 - crafting: molten glass (lunar for making molten glass)

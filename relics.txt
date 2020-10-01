@@ -1,0 +1,13 @@
+T1 R1 hardcore harvester
+- adds value to blast furnace to be able to quickly use lots of ores
+
+T1 R2 production master
+- great for cannon-balls
+- devalues blast furnace if you choose that region
+
+T1 R3 +10 non-combat skills
+- cant use boots on minnows
+- cant boost for a trident because you can only kill kraken on task and can't get a task with boosting
+- cant boost for sepulcre or pyramid plunder
+- some quest requirements are not boostable
+- gives people more time to PVM because most skilling will stop at 89

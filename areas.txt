@@ -1,20 +1,47 @@
+Things that are important when considering region
+- BIS weapons (elf+desert for darts to use BP, kandarin for trident, mory for rapier, misthalin for whip)
+- rune shop
+    - expensive ones (prif, ali baba in frem)
+    - cheaper (mage guild in kandarin, wilderness shop, ali baba runes)
+- theiving (ardy for knights, desert for blackjack)
+- smithing (blast furnace in frem if you don't take R2)
+- runecrafting (ZMI in kandarin, desert + frem for lunars to do lava runes)
+- ranging (kandarin for chins + MM2 tunnels, wildy for chins)
+- crafting (lunars for glassmaking, alternatively gem mines in shilo village)
+
+area combo's
+- elf + desert for blowpipe + ability to make smith darts (even easier with R2)
+- kandarin + desert for bursting MM2 tunnels
+- kandarin + frem + wildy for ZMI with lunars and NPC contact for repairing pouches
+- kandarin + asgarnia for cannon (quest starts in kandarin)
+- kandarin + mory for enhanced slayer helm + imbued salve amulet
+- kandarin + elf for trident of the swamp
+- asgarnia + mory for guardian boots + avernic defender
+
 
 questions that might change my area choice:
 - trident is in kandarin RIGHT?
-- is monkey madness in ardy?
+- is monkey madness in kandarin?
 
-my preferred areas
+my preferred areas (order kandarin, desert, elf in that order) (R2 works well with these areas)
 - Misthalin
 - Kandarin
-  - NMZ, cannon, trident
+  - NMZ, trident, zenytes, barb fishing
 - desert
-  - able to smith darts for my blowpipe
-  - ancients for burst tasks (spend gp for blood runes)
+  - able to smith darts for my blowpipe, agility pyramid for early gp
+  - ancients for burst tasks (spend gp for blood runes) could also burst in MM2 tunnels
 - Elf
   - zulrah, zolcano, gauntlet
+
+undecided:
 - morytanya
-  - black mask (improved at nmz)
-  - ahrims for zulrah
+  - black mask (improved at nmz) (could go void instead)
+  - ahrims for zulrah (alternative is buy mystic in wizard guild)
+- asgarnia
+    - cannon
+    - possibly void
+    - mining guild
+    - defender
 
 fine with skipping:
 - wilderness
@@ -60,9 +87,10 @@ moritanya
 falador area (asgarnia?)
 - mining guild
 - pickaxe shop in dwarven mine
-- cannon
+- buy cannon
 - taverly dungeon (cerberus)
 - mahogany homes (might need ardougne too to do it effectively)
+- snape grass spawn (needed for plague city quest)
 
 port sarim (asgarnia?)
 - crafting law runes on entrana
@@ -93,16 +121,18 @@ gnome tree area (possibly kandarin/ardougne)
 ardougne area (aka kandardin)
 - if west ardougne is included then ability to sell cats for death runes
 - castle wars dueling ring banking spot
-- seers village agility course
-- cake stalls
+- seers village agility course, ardougne agility course
+- cake stalls, knight theiving
 - waterfall quest
 - ibans staff
-- fishing guild
-- barb fishing
+- fishing guild, barb fishing
 - ardougne cloak teleport to heal prayer
-- nightmare zone
+- nightmare zone for imbuing things
 - ZMI altar (requires lunar for good xp rates)
 - ZMI can kill mobs there for rune scimitar
+- kraken
+- MM2
+- charter ships close to bank
 
 elf area
 - zalcano (70 mining, 70 smithing), lots of high level runes, ores, bars, and pure ess

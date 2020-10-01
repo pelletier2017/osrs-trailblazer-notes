@@ -9,24 +9,22 @@ trailblazers plan
   - in stronghold get the 10k and optionally get the fighter boots on 4th floor
      - summary of 10k spend (see below of when to buy them):
        - 1500 fire staff
-       - 100 short bow
-       - 200 willow short bow
-       - 400 maple short bow
        - 900 (for 300 iron arrows)
-       - 1600 for 400 air runes
-       - 600 for 200 mind runes
+       - 3200 for 800 air runes
+       - 1200 for 400 mind runes
        - 3300 for 5 bolts of cloth + saw
-       - 800 gp for chronacle + 5 teleports
-      ----- so far 9400
+      ----- so far
 - exit stronghold and go to varrock to buy a bunch of stuff
   - a fire staff 1500gp
-  - oak shortbow 100gp, willow shortbow 200gp, maple shortbow 400gp, 300 (x3 each) iron arrows
+  - leather body, leather boots, leather gloves, cape, blue wizard hat from shirt shop
+  - chisel, 2 buckets from general store
   - about 400 air runes (4 each), 200 mind runes (3 each)
   - grab lit candle upstairs in varrock sword shop
 - buy stuff from sawmill
   - buy 5 bolts of cloth, saw 3300gp
-- bank everything except for draman staff, axe, some food, and ranging stuff and kill nature spirits in enchanted valley until rune axe
+- bank everything except for draman staff, axe, some food, and magic stuff and kill nature spirits in enchanted valley until rune axe
   - safe spots are the small bushes
+  - get mith axe, adamant axe, and maybe rune axe if its pretty fast
 - use nice axes to lvl up woodcutting + fletching + firemaking, sell longbows to the general store, dropping arrow shafts is probably fine
    - inventory is axe, knife, tinderbox, air runes, mind runes
    - WHEN TO STOP??????????????????? ill have really good axes and I'm selling everything so I might as well keep going
@@ -37,15 +35,13 @@ trailblazers plan
       - east of general store just south of furnace
       - north-west of the general store in lummy
 - bank everything and thieve men at lumbridge spawn until lvl 5 for tea shop (might die but its fine)
-- start rune mysteries quest at 2nd floor lumbridge castle
+- start rune mysteries quest at 2nd floor lumbridge castle (might be auto-completed)
 - grab rake from zanarius hut without staff
 - run to wizard tower for rune mysteries quest
-- buy chronacle and ~5 teleports from diango 800gp (remember that edgeville/wizard tower/zanarius have fairy rings)
 - draynor rooftop agility until lvl 20 agility for al karhid rooftop course
 - fish shrimp/anchovies at draynor - otherwise just fish enough to unlock fly fishing
       - maybe fishing enough until 32 cooking for cooking guild?
 - start vampire slayer quest in draynor village (GRAB GARLIC)
-- use chronacle teleport to varrock
 - continue rune mysteries quest
 - continue vampire slayer quest
 - thieve lots of tea until WHEN TO STOP?????????????? what is next theiving training method, blackjack?
@@ -82,7 +78,6 @@ medium/long-term goals (work backwards)
         - cash
             - 10k cash for workshop
             - 4k cash to buy hop seeds in draynor
-            - 1k cash for oak planks
         - quests
             - my dads house miniquest for free house
         - skills
@@ -91,8 +86,8 @@ medium/long-term goals (work backwards)
             - 25 construction to make table lvl 2
                 - where to get 25 construction?
         - items
-            - 4 oak logs to make planks
-            - 1 molten glass (20 crafting, 1 sand bucket, 1 seaweed)
+            - 4 oak logs to make bank planks
+            - 1 molten glass (1 sand bucket, 1 seaweed)
             - banked logs (calculate how many roughly?)
             - 4 steel bars for clockwork
 

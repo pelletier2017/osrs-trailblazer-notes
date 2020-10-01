@@ -7,10 +7,6 @@ easy:
 - shield of arav
   - requires partner, black arm gang kills lvl 23, phoenix gang kills lvl 2
   - rewards: 1 QP, 600 coins and kudos
-- restless ghost
-  - (you can run from lvl 13 skeleton)
-  - 1 QP, 1.1k prayer XP, ghost speak amulet
-  - required for a lot of quests (mostly moritania)
 - rune mysteries
   - rewards: 1 QP, mine rune ess, air talisman, 5 kudos
 - mistalyn mystery
@@ -21,6 +17,9 @@ easy:
   - requires: 10 planks, 5 bolt of cloth, 14 nails (or more cuz they bend), hammer, saw
   - reward 400 construction xp, player owned house, 25 planks, 50 nails, 5 steel bars, 10 oak planks, 8 bolts of cloth, 5 house teleports, 1 falador teleport
   - could resell bolts of cloth unless theres a task to construct something in the house that needs cloth
+- jungle potion
+  - requires: run past lvl 50 jogres
+  - rewards 775 herblore xp (helps for tai buano, lvl 19 from starting lvl 3)
 
 med:
 - vampire slayer
@@ -32,21 +31,21 @@ med:
 - demon slayer
   - bucket of water, 25 bones, 1 gold coin, fight lvl 27
   - reward 3 QP, silverlight sword, 5 kudos
-- priest in peril
-  - 50 un-noted ess, bucket, fight lvl 30 dog
-  - reward: 1 QP, 1400 prayer xp, wolfbane dagger
 - what lies below
   - 35 runecraft, 42 mining, bowl, bronze pickaxe, 15 chaos runes, chaos talisman, 5 lvl 32 and 1 lvl 47 enemy
   - 1 QP, 8k runecraft xp, 2k defense xp
-- the lost city (probably auto-completed)
-  - 31 crafting, 36 wc, 39 magic recommended, ability to kill 101 tree spirit with limited armor and weapons
-  - rewards: 3 QP, access to zanaris, able to make cosmics, able to start fairy tale part 1
 - death to the dorgeshuun
   - requires 23 agility, 23 thieving and lit candle from varrock upstairs
   - rewards 2k theiving, 2k range xp and access to ham store rooms
-- a porcine of interest
-  - requires combat to kill lvl 37 boar thing
-  - reward is 1k slayer xp and 5k coins
+- zogre flesh eaters
+  - requires 4 smithing, 8 herblore, 30 ranged (get herblore from jungle potion)
+  - items required: wolf bones, nails, feathers
+- shilo village
+  - requires 20 crafting, 32 agility, 4 smithing to make bronze wire
+  - reward: 3875 crafting xp, access to shilo village for fishing shop, a few thousand gp
+- tai bwo wannai trio
+  - requires 15 agility, 30 cooking, 5 fishing
+  - items required
 
 maybe worth??
 - tears of guthix
@@ -95,3 +94,90 @@ cant do:
 - start recipe for disaster (the start is probably auto-completed with monkey madness 2)
   - requires: eye of newt, greenmans ale, rotten tomato, fruit blast, ashes
 - tourist trap (auto-completed as part of desert treasure)
+
+
+post-misthalin quests for lots of xp
+
+kandarin
+- gertrudes cat
+    - you get a sardine in witchhaven
+- observatory
+    - 2250 crafting xp
+- waterfall
+    - 13,750 str and attack xp
+- tower of life
+    - requires 10 construction
+    - 1000 construction xp, 500 crafting xp, 500 theiving xp
+- tree gnome village (might be auto-completed by MM2)
+    - 11,450 attack xp and spirit trees
+- hazeel cult
+    - 1500 thieving xp
+    - 2000 coins
+- tribal totem
+    - 1775 theiving xp
+- monks friend
+    - 2k woodcutting xp
+    - 8 law runes
+- plague city
+    - MIGHT require 61 farming, 50 hunter, or falador to grab a snape grass
+    - 2425 mining xp
+- biohazard (open up west ardougne)
+    - requires plague city
+    - 1250 thieving xp
+- temple of ikov (autocompleted by desert treasure but you can do it if you want)
+    - requires 42 thieving and 40 range
+    - 10,500 ranged xp and 8,000 fletching xp
+- elemental workshop 2
+    - requires 20 magic, 30 smithing
+    - 8 coal (30 mining to get it)
+    - 7500 smithing xp, 7500 crafting xp
+- fight arena
+    - 12k attack xp, 2k theiving xp, 1000 coins
+- the grand tree
+    - requires 25 agility
+    - fight a safespottable monster
+    - 18k attack xp, 8k agility xp, 2k magic xp
+- camelot training room
+    - requires kings randsom quest
+    - requires high combat stats
+    - 20k attack, 20k strength, 20k defnse, 20k hp xp (unlocks chivalry and piety)
+
+desert
+- spirits of elid
+    - requires 33 magic, 37 ranged, 37 mining, 37 thieving
+    - rewards 8k prayer xp, 1k thieving xp, 1k magic xp
+- shadow of the storm
+    - requires the golem quest and demon slayer
+    - requires 30 crafting, fighting lvl 100 demon
+    - 10k in any combat stat other than prayer
+
+requires extra areas
+- merlins crystal (only if you pick karamja)
+    - 11k prayer xp
+    - 15k defense xp
+- scorpion catcher (requires falador)
+    - 6600 strength xp
+- a porcine of interest
+  - requires combat to kill lvl 37 boar thing
+  - reward is 1k slayer xp and 5k coins
+- holy grail
+    - requires karamja and ardougne
+    - 11k prayer xp
+    - 15k defense xp
+- dragon slayer
+    - requires wizard mind bomb (which requires falador or burthrope to buy)
+    - 18k strength xp, 18k defense xp
+
+
+auto-completed and impossible to complete
+- Dragon Slayer 2QP
+- Druidic Ritual 4QP
+- Elemental Workshop I 1QP
+- Bone Voyage 1QP
+- Dig Site 2QP
+- Fairytale II - Cure a Queen 2QP
+- Fairytale I - Growing Pains 2QP
+- Lost City 3QP
+- Nature Spirit 2QP
+- Priest in Peril 1QP
+- The Restless Ghost 1QP

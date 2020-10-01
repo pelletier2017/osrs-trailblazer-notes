@@ -30,26 +30,41 @@ skilling items:
 - water talisman (dropped from many monsters such as dark wizard, wizard, etc)
 - body talisman (dropped from many monsters such as Guard lvl 20, Hill Giant, abyss location)
 - earth altar (dropped from earth impling)
+- magic secateurs (bought from Malignious Mortifier near Falador for 40k unless found in your bank at the start)
+- water-filled vial pack (karamja general store, shilo village, prif, entrana, ardy store)
+- pestle and mortar (shilo village, karamja store, prif, taverly)
+- amulet mould (rimmington store, al-karid store)
+- necklace mould/ring mould (rimmington store, al-karid store, keldagrim, ap atoll)
+- bracelet mould (rimmington store, al-karid store, ape atoll)
+- box trap (yanille, nardah, or lunar spell hunter kit)
+- antipoison (apothecary in varock for limpwort and cadavaberry or buy from jungle store on karamja)
 
 quest items:
 - bowl (varrock general store, lumbridge basement store)
 - vodka (heckel funch in gnome stronghold, asp and snake bar in pollnivneach, jossik in lighthouse AFTER horror of the deep)
 - hard leather (tanner in al karid, crafting guild with 40 crafting, ranging guild with 40 range, canifis)
 - soda ash for molten glass for workshop table for birdhouses
-    - seaweed from ammonite crabs
+    - seaweed spawns around ammonite crabs
     - from swamp weed from cave bugs in lumbridge swamp
     - 22 mining mine volcanic ash in fossil island
 - bucket of sand (sand pit in zanaris)
 - holy symbol
 - polished buttons
-- greenmans ale
 - rotten tomato (varrock crate by the general store and ranged store by cages)
 - fruit blast (tree gnome stronghold or tai bwo wannai store)
 - lit candle (spawns in varrock sword shop upstairs)
 - sardine (fishing rod + bait to fish on east side of lumbridge used for gertrudes cat)
     - could also kill river troll in enchanted valley fairy ring bkq
     - can buy in witchhaven if i unlock ardougne
+    - could also get 30 mermaid tears and buy bowl of fish from mairins market
 - plank (a few spawn on fossil island or 100gp at sawmill)
 - saw (13 gp at sawmill)
 - bolt of cloth (650gp each at sawmill)
+- egg
 - lockpick (young impling or burthrope under the bar)
+- snape grass (grab an electic impling in puro puro with 50 hunter or farm it with 61 farming)
+- leather (in a crate during elemental workshop quest)
+- agility potion (34 herblore + toadflax + frog legs), could also be dropped from ictharins little helper quest
+- toad flax (agility arena)
+- toad legs (lobstrocity drop 6/118, grab from gnome stronghold or taverly)
+- steel spear (blue dragons drop mith spear 1/64, moss giants 1/64 mith spear,  or hobgoblins 1/64 for steel spear)
